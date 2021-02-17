@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portfolio, my business website and other cool projects !
-- 🌱 I’m currently learning HTLM and CSS
+
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
+- 🔭 I’m currently working on my portfolio, my business website and other cool projects !
+- 🌱 I’m currently learning HTLM and CSS
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a dancer!
 
